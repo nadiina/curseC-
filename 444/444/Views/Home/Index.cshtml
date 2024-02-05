@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <a asp-action="ShowTree">Show Tree View</a>
+</div>
+
+<form asp-controller="Home" asp-action="UploadJsonFile" method="post" enctype="multipart/form-data">
+    <table>
+        <tr>
+            <td>
+                <h2>JSON to SQL Server</h2>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p> Choose Json file:</p>
+            </td>
+            <td>
+                <input type="file" name="files" id="files" />
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>
+                <input type="submit" id="btnAttach" value="Save data" name="submit" />
+            </td>
+        </tr>
+    </table>
+</form>

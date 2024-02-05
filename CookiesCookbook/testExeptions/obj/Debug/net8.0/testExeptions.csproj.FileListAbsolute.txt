@@ -1,0 +1,14 @@
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\bin\Debug\net8.0\testExeptions.exe
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\bin\Debug\net8.0\testExeptions.deps.json
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\bin\Debug\net8.0\testExeptions.runtimeconfig.json
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\bin\Debug\net8.0\testExeptions.dll
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\bin\Debug\net8.0\testExeptions.pdb
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.AssemblyInfoInputs.cache
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.AssemblyInfo.cs
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.csproj.CoreCompileInputs.cache
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.dll
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\refint\testExeptions.dll
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.pdb
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.genruntimeconfig.cache
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\ref\testExeptions.dll

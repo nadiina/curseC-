@@ -1,0 +1,18 @@
+﻿@model List<Flowers>
+
+<h2>Tree View</h2>
+
+<div id="treeview">
+    @foreach (var flower in Model)
+    {
+        <div>
+            @flower.FlowerName
+            @if (flower.Children != null && flower.Children.Any())
+            {
+                <div style="margin-left: 20px;">
+                    @Html.Partial("_Tree", flower.Children)
+                </div>
+            }
+        </div>
+    }
+</div>

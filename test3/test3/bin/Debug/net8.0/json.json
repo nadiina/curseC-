@@ -1,0 +1,14 @@
+[
+  {
+    "FlowerName": "Tulip",
+    "Color": "Yellow",
+    "BloomTime": "2023-04-20T14:45:00",
+    "Price": 8.99
+  },
+  {
+    "FlowerName": "Lily",
+    "Color": "White",
+    "BloomTime": "2023-06-01T08:15:00",
+    "Price": 14.99
+  }
+]
