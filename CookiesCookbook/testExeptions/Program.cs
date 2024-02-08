@@ -1,13 +1,22 @@
-﻿var numbers = new int[0];
-var firstElem = GetFirstElement(numbers);
-Console.WriteLine(firstElem);
+﻿using System.Diagnostics;
 
-int GetFirstElement(IEnumerable<int> numbers)
+Stopwatch stopwatch = new Stopwatch();
+stopwatch.Start();
+
+var ints = CreateCollectionOfRandomLength<int>(60);
+stopwatch.Stop();
+
+Console.WriteLine($"Execution took {stopwatch.ElapsedMilliseconds} ms.");
+Console.ReadKey();
+IEnumerable<T> CreateCollectionOfRandomLength<T>(int maxLength) where T : new()
 {
-    foreach (int number in numbers)
-    {
-        return number;
-    }
+    //var length = new Random().Next(maxLength + 1);
+    var length = 100000000;
+    var res = new List<T>();
 
-    throw new Exception(); 
+    for (int i = 0; i < length; i++)
+    {
+        res.Add(new T());
+    }
+    return res;
 }

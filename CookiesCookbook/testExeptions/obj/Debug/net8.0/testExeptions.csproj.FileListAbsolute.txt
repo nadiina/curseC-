@@ -12,3 +12,4 @@ C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\refint\
 C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.pdb
 C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.genruntimeconfig.cache
 C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\ref\testExeptions.dll
+C:\Users\nadii\Desktop\C#\CookiesCookbook\testExeptions\obj\Debug\net8.0\testExeptions.sourcelink.json
